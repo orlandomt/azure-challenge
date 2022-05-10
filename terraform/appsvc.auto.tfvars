@@ -1,0 +1,5 @@
+app_svc_plan_name = "spxpayment"
+app_svc_plan_size = "B1"
+backoffice_app_name = "xbackoffice"
+merchant_app_name = "xmerchant"
+payment_app_name = "xpayment"
